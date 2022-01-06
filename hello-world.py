@@ -1,1 +1,1 @@
-print("HELLO WORLD  yeni XXXXX MMMMM")
+print("HELLO WORLD  y")
